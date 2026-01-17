@@ -5,7 +5,7 @@ I wanted an editor that was fast while staying out of my way. While large editor
 
 This config might not provide enough features to justify uninstalling VS Code or JetBrains, but it should work great 95% of the time.
 
-**DISCLAIMER:** This is my personal config based my personal workflow, so it may not work for many people.
+**DISCLAIMER:** This is my personal config based my personal workflow, so it may not work for many people. It will probably feel barebones.
 
 ## Features
 - Language Server Support
