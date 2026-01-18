@@ -14,12 +14,13 @@ This config might not provide enough features to justify uninstalling VS Code or
 - Fuzzy Finding
 - Light Theme (makes text easier to read)
 
-## Setup
+## Setup & Usage
 ### Linux (MacOS maybe, not tested) ###
 1. Clone this repository into ~/.config/nvim
 2. Start Neovim and run :checkhealth
 3. Fix any issues listed (e.g. install missing programs)
-4. Enjoy!
+4. Read configuration files and plugin documentation to learn how to use features
+5. Enjoy!
 
 ## Plugins and Configuration
 All of the plugins used is set up using lazy.nvim. Plugins can be viewed under lua/plugins/plugins.lua. Additional configuration can be viewed under init.lua.
